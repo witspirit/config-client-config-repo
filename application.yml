@@ -1,0 +1,3 @@
+application:
+  title: My Config Client Example
+environment: dev
