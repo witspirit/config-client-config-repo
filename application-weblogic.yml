@@ -1,0 +1,4 @@
+application:
+  title: Weblogic Client Config Example
+deployment:
+  target: WebLogic
