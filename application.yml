@@ -1,3 +1,5 @@
 application:
   title: Client Config Example
 environment: dev
+deployment:
+  target: WebSphere
